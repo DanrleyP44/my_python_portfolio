@@ -28,7 +28,6 @@ Rather than relying on a complex design, the goal is to provide a clear and acce
 - **Flask** — Web framework.
 - **HTML5** — Page structure.
 - **CSS3** — Styling and responsive layout.
-- **JavaScript** — Client-side interactivity, where applicable.
 - **uv** — Python project and dependency management.
 - **Git and GitHub** — Version control and source code hosting.
 
